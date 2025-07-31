@@ -2,7 +2,7 @@
 A Sentimernt Analyzer using C# and .NET framework
 
 
-🧠 Sentiment Analyzer App
+🧠 Sentiment Analyzer Desktop Application
 A modern C# Windows Forms application that analyzes the sentiment of user-inputted text (Positive, Negative, or Neutral) and keeps a history of mood entries. Built with a sleek black-and-yellow UI, the app provides a smooth user experience for analyzing and tracking emotional states.
 
 
