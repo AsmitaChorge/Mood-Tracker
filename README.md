@@ -39,7 +39,7 @@ Program.cs: Entry point of the application.
 
 🏁 How to Run
 Clone the repository:
-bash > Copy > Edit > git clone https://github.com/your-username/sentiment-analyzer-app.git > Open the .sln file in Visual Studio. > Build and run the project using F5 or the green Start button.
+bash > Copy > Edit > git clone https://github.com/AsmitaChorge/sentiment-analyzer-app.git > Open the .sln file in Visual Studio. > Build and run the project using F5 or the green Start button.
 
 
 
